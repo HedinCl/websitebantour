@@ -7,7 +7,7 @@ body {
   }
   
   header {
-    background: rgb(0,20,13); /* xanh lá đậm */
+    background:  #011910; /* xanh lá đậm */
     color: #fff;
     text-align: center;
     padding: 30px 20px;
@@ -19,7 +19,7 @@ body {
   }
   
   nav {
-    background: #14532d ; /* xanh lá đậm */
+    background: #042913; /* xanh lá đậm */
     text-align: center;
     padding: 10px;
   }
@@ -89,7 +89,7 @@ body {
   }
   
   footer {
-    background: #14532d;
+    background: #042913;
     color: white;
     text-align: center;
     padding: 20px;
